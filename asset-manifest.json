@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CoffeeTag/static/css/main.596461b9.css",
+    "main.js": "/CoffeeTag/static/js/main.75fab48c.js",
+    "static/js/787.51baddad.chunk.js": "/CoffeeTag/static/js/787.51baddad.chunk.js",
+    "static/media/carousel2.gif": "/CoffeeTag/static/media/carousel2.8c83db6aaa720d23c0b6.gif",
+    "static/media/Background.jpg": "/CoffeeTag/static/media/Background.7be8f2b2238170abfb6c.jpg",
+    "static/media/carousel1.gif": "/CoffeeTag/static/media/carousel1.58a78592a56c86a61f07.gif",
+    "static/media/carousel3.gif": "/CoffeeTag/static/media/carousel3.eccc08fad92d8f1fcbf2.gif",
+    "static/media/text.png": "/CoffeeTag/static/media/text.f353b188f6174f54919b.png",
+    "static/media/cakebutton.png": "/CoffeeTag/static/media/cakebutton.e7b0eeefb06b8fe6145f.png",
+    "static/media/Logo.png": "/CoffeeTag/static/media/Logo.98408daa9a177606dc7e.png",
+    "static/media/coffeebutton.png": "/CoffeeTag/static/media/coffeebutton.85d28e046e793bf306ae.png",
+    "index.html": "/CoffeeTag/index.html",
+    "main.596461b9.css.map": "/CoffeeTag/static/css/main.596461b9.css.map",
+    "main.75fab48c.js.map": "/CoffeeTag/static/js/main.75fab48c.js.map",
+    "787.51baddad.chunk.js.map": "/CoffeeTag/static/js/787.51baddad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596461b9.css",
+    "static/js/main.75fab48c.js"
+  ]
+}
