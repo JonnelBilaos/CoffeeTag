@@ -13,6 +13,7 @@ function App() {
   
   return (
     <div className="App">
+    <Main />
       <Router>
         <Routes>
           <Route exact path="/" element={<Main />} />
